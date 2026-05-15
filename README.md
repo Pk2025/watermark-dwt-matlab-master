@@ -36,23 +36,15 @@ The system also provides a MATLAB GUI for:
 - Discrete Wavelet Transform (DWT)
 - Singular Value Decomposition (SVD)
 
----
 
-# 📂 Project Structure
+# Screenshot
 
-
-watermark-dwt-matlab-master/
-│
-├── gui.m
-├── logic.m
-├── README.md
-├── screenshots/
 <img width="2988" height="1658" alt="image" src="https://github.com/user-attachments/assets/7b4bf571-b26f-482e-a8b2-b615544492af" />
 
-└── report/
---------
 
-Workflow
+
+
+# Workflow
 Load Source Image
 Load Watermark Image
 Apply 2-Level DWT
@@ -124,39 +116,9 @@ Rotation
 GUI Preview
 Main GUI
 
-Add your screenshots inside the screenshots/ folder.
 
 
-# Sample Results
-Attack	PSNR (Cameraman)	SSIM
-No Attack	30.60 dB	0.9621
-Blur	24.42 dB	0.7791
-Sharpen	24.87 dB	0.7948
-Resize	26.09 dB	0.8650
-Gaussian Noise	19.33 dB	0.2839
-Salt & Pepper Noise	17.47 dB	0.2316
-Cropping	11.60 dB	0.0693
-Rotation	11.24 dB	0.0785
 
-Research Basis
 
-This project is inspired by various DWT-SVD based digital image watermarking research papers and extends them using:
 
-2-Level DWT
-HL2 sub-band embedding
-GUI-based implementation
-Attack simulation
-Additional evaluation metrics
 
-#Limitations
-Sensitive to severe geometric attacks
-Performance depends on alpha value
-Noise significantly affects extraction quality
-Implemented mainly for grayscale/single-channel processing
-
-# Future Scope
-Integration with Deep Learning techniques
-Color image watermarking
-Video watermarking
-Web-based implementation
-Improved robustness against geometric attacks
