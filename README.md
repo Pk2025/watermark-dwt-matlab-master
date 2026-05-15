@@ -129,7 +129,7 @@ Paper Title:
 [View Paper](paper/DWT_SVD_Watermarking_Paper.pdf)
 
 📌 Presentation Certificate:
-[View Certificate](certificate/conference_certificate.pdf)
+[View Certificate]((https://github.com/Pk2025/watermark-dwt-matlab-master/blob/main/certificate/ICETI2026_Certificate.pdf))
 
 
 
