@@ -116,20 +116,26 @@ Rotation
 GUI Preview
 Main GUI
 
-# 📄 Research Paper
+# 📄 Research Paper and Conference Presentation
 
 This project was presented at the:
 
 **2nd International Conference on Emerging Technologies & Innovations (ICETI 2026)**
 
-Paper Title:  
+## Paper Title
 **Digital Image Watermarking Using DWT-SVD in MATLAB**
 
-📌 Research Paper:  
-[View Paper](paper/DWT_SVD_Watermarking_Paper.pdf)
+## Research Contribution
+The proposed system uses a hybrid DWT-SVD watermarking approach with 2-Level DWT decomposition and HL2 sub-band embedding to improve watermark imperceptibility and robustness against various image processing attacks.
 
-📌 Conference Certificate:  
-[View Certificate](certificate/ICETI2026_Certificate.pdf)
+The system was implemented in MATLAB with a GUI-based interface supporting:
+- Watermark embedding
+- Watermark extraction
+- Attack simulation
+- Performance analysis using PSNR, SSIM, and NC metrics
+
+## Conference Presentation
+The work was accepted and presented as part of the ICETI 2026 conference proceedings.
 
 
 
