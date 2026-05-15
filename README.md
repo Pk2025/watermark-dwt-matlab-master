@@ -126,7 +126,7 @@ Paper Title:
 **Digital Image Watermarking Using DWT-SVD in MATLAB**
 
 📌 Conference Paper:
-[View Paper](paper/DWT_SVD_Watermarking_Paper.pdf)
+[View Paper](paper/DWT_SVD_Watermarking_Paper.pdfhttps://github.com/Pk2025/watermark-dwt-matlab-master/blob/main/Paper/DWT_SVD_Watermarking_Paper.pdf)
 
 📌 Presentation Certificate:
 [View Certificate]((https://github.com/Pk2025/watermark-dwt-matlab-master/blob/main/certificate/ICETI2026_Certificate.pdf))
