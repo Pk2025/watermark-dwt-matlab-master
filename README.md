@@ -116,7 +116,20 @@ Rotation
 GUI Preview
 Main GUI
 
+# 📄 Research Paper
 
+This project was presented at the:
+
+**2nd International Conference on Emerging Technologies & Innovations (ICETI 2026)**
+
+Paper Title:
+**Digital Image Watermarking Using DWT-SVD in MATLAB**
+
+📌 Conference Paper:
+[View Paper](paper/DWT_SVD_Watermarking_Paper.pdf)
+
+📌 Presentation Certificate:
+[View Certificate](certificate/conference_certificate.pdf)
 
 
 
