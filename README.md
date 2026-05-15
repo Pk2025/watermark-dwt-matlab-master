@@ -40,7 +40,7 @@ The system also provides a MATLAB GUI for:
 
 # 📂 Project Structure
 
-```text
+
 watermark-dwt-matlab-master/
 │
 ├── gui.m
@@ -126,7 +126,7 @@ Main GUI
 
 Add your screenshots inside the screenshots/ folder.
 
-![GUI](screenshots/gui.png)
+
 # Sample Results
 Attack	PSNR (Cameraman)	SSIM
 No Attack	30.60 dB	0.9621
